@@ -6,13 +6,13 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 - **Data aggregation**  - import the data for school and students and merge into one dataframe,
 - **Data wrangling** -
   - clean the student data to remove preffixes and suffixes from names and,
-  - remove math and reading scores for Thomas High School since they were incorrectly reported.
-- **Data analysis**
-  - creating summary of student and school data,
-  - identifying high & low performing school through trends,
-  - summarizing school data by grade,
-  - analyzing school spend and providing a summary, and
-  - analyzing student scores by school size and school type.
+  - remove math and reading scores for *Thomas High School* since they were incorrectly reported.
+- **Data analysis** -
+  - createsummary of student and school data,
+  - identify high & low performing school through trends,
+  - summarize school data by grade,
+  - analyze school spend and providing a summary, and
+  - analyze student scores by school size and school type.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
