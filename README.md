@@ -31,13 +31,23 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
   ![bottom schools](https://user-images.githubusercontent.com/84694664/126912258-91874a11-d299-45c5-97d2-5ab1e5331d6a.JPG)
 
 - ### Impact of replacing the 9th graders’ math and reading scores on Thomas High School’s performance:
-  Removing the 9th graders' math and reading scores moved *'Thomas High School's'* rank from 
+  Removing the 9th graders' math and reading scores moved *'Thomas High School's'* rank from Rank 8 to Rank 2. Below is the snapshot of *'Thomas High School'* before and after removing the 9th grader's scores respectively.
+  ![ths1](https://user-images.githubusercontent.com/84694664/126912839-14ff0fa5-1c73-40c9-b076-4a2e023c5b75.jpg)
+  
+  ![ths2](https://user-images.githubusercontent.com/84694664/126912886-a37c3be2-49f2-4a62-9687-3bf4e1bc102f.jpg)
   
 - ### Impact of replacing the 9th grade scores on:
   - ### Math and reading scores by grade
+    ![math score by grade](https://user-images.githubusercontent.com/84694664/126912945-842af259-18c8-445d-9305-00616d0aa542.JPG) ![reading by grade](https://user-images.githubusercontent.com/84694664/126912948-2c2b9494-6a47-4374-8a08-5243c4db5f87.JPG)
+
   - ### Scores by school spending
+    ![score by school spending](https://user-images.githubusercontent.com/84694664/126913035-fe2f2599-4129-44c8-b8f1-03f7143083b5.JPG)
+
   - ### Scores by school size
+    ![score by school size](https://user-images.githubusercontent.com/84694664/126913044-ff28a1f8-6151-43b8-a2b4-22e1273aba7e.JPG)
+
   - ### Scores by school type
+    ![score by school type](https://user-images.githubusercontent.com/84694664/126913047-b485a0f7-b93f-41aa-ae61-cefbf9509e85.JPG)
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
