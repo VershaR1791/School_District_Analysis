@@ -56,6 +56,8 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 ## Summary: 
 The four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced were:
 - The total number of students for Thomas High School record was that was considered for overall summary analysis was reduced from 1635 to 1174.
-- The rank of Thomas High School jumped from 8th to 2nd in the overall list, based on the overall passing percentage.
-- The math and reading passing percentage increased due to the lower denominator value of total students.
+- The rank of Thomas High School jumped from 8th to 2nd in the overall list, based on the overall passing percentage from 65.07% to 90.63% .
+- The math and reading passing percentage increased due to the lower denominator value of total students -
+    - Math: from 66.91% to 93.2%
+    - Reading from 69.66% to 97.02%
 - The average of math and reading scores is more accurate.
