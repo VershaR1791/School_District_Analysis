@@ -21,7 +21,9 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 ![District summary2](https://user-images.githubusercontent.com/84694664/126910623-df925b02-abe6-4e10-99d2-c7bccd19186d.JPG)
 
 - ###  School Summary
-  The school summary provides a tabulated synopsis of each of the school in the district by *'School Type', 'Total Students', 'Total Budget', 'Budget per Student', 'Average Math & Reading Score'* and *'% passing in each subject'*. 
+  The school summary provides a tabulated synopsis of each of the school in the district by *'School Type', 'Total Students', 'Total Budget', 'Budget per Student', 'Average Math & Reading Score'* and *'% passing in each subject'*. Here is a snapshot of all schools.
+![school summary2](https://user-images.githubusercontent.com/84694664/126911360-b0641585-d31e-4578-8302-7eef248e014f.JPG)
+
 - ### Impact of replacing the 9th graders’ math and reading scores on Thomas High School’s performance relative to the other schools
 
 - ### Impact of replacing the 9th grade scores on:
