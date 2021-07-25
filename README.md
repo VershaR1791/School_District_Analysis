@@ -38,21 +38,23 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
   
 - ### Impact of replacing the 9th grade scores on:
   - ### Math and reading scores by grade
-    The math and reading scores are replaced by *'NaN'* and the rest of the scores for other grades are unaffected.
+    The math and reading scores are replaced by *'NaN'* for the 9th grade and the rest of the scores for other grades are unaffected. The overall average score for math and reading does not have a significant change.
     ![math score by grade](https://user-images.githubusercontent.com/84694664/126912945-842af259-18c8-445d-9305-00616d0aa542.JPG) ![reading by grade](https://user-images.githubusercontent.com/84694664/126913164-398f828c-c095-421e-b44a-c5d928af8000.JPG)
 
   - ### Scores by school spending
-    The school spending was broken down into 4 spending ranges per student of *'<$584' , '$585-$629', '$630-$644'* and *'$645-$657'*.
+    The school spending was broken down into 4 spending ranges per student of *'<$584' , '$585-$629', '$630-$644'* and *'$645-$657'*. The lower the spend per student better the overall passing percentage of the school.
     ![score by school spending](https://user-images.githubusercontent.com/84694664/126913035-fe2f2599-4129-44c8-b8f1-03f7143083b5.JPG)
 
   - ### Scores by school size
-    The school size consisted of 3 sizes *Small'<1000', Medium'1000-2000'* *'Large'2000-5000'* based on number of students.
+    The school size consisted of 3 sizes *Small'<1000', Medium'1000-2000'* *'Large'2000-5000'* based on number of students. The medium and school size have a better overall passing percentage than larger size schools. 
     ![score by school size](https://user-images.githubusercontent.com/84694664/126913044-ff28a1f8-6151-43b8-a2b4-22e1273aba7e.JPG)
 
   - ### Scores by school type
-    The school type is based on whether the school is *'District'* or *'Charter'*.
+    The school type is based on whether the school is *'District'* or *'Charter'*. The overall passing percentage is greater for Charter Schools than District schools by almost 40%.
     ![score by school type](https://user-images.githubusercontent.com/84694664/126913047-b485a0f7-b93f-41aa-ae61-cefbf9509e85.JPG)
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced were:
+- The rank of Thomas High School jumped from 8th to 2nd in the overall list.
+- 
 
