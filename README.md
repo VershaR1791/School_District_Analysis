@@ -55,6 +55,6 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 
 ## Summary: 
 The four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were replaced were:
-- The rank of Thomas High School jumped from 8th to 2nd in the overall list.
+- The rank of Thomas High School jumped from 8th to 2nd in the overall list, based on the overall passing percentage.
 - 
 
