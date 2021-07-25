@@ -31,7 +31,8 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
   ![bottom schools](https://user-images.githubusercontent.com/84694664/126912258-91874a11-d299-45c5-97d2-5ab1e5331d6a.JPG)
 
 - ### Impact of replacing the 9th graders’ math and reading scores on Thomas High School’s performance:
-
+  Removing the 9th graders' math and reading scores moved *'Thomas High School's'* rank from 
+  
 - ### Impact of replacing the 9th grade scores on:
   - ### Math and reading scores by grade
   - ### Scores by school spending
