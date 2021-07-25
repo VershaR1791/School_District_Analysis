@@ -60,4 +60,4 @@ The four changes in the updated school district analysis after reading and math 
 - The math and reading passing percentage increased due to the lower denominator value of total students -
     - Math: from 66.91% to 93.2%
     - Reading from 69.66% to 97.02%
-- The average of math and reading scores is more accurate.
+- The average of math and reading scores is more accurate after removing the 9th graders' scores.
