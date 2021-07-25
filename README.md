@@ -38,7 +38,7 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
   
 - ### Impact of replacing the 9th grade scores on:
   - ### Math and reading scores by grade
-    ![math score by grade](https://user-images.githubusercontent.com/84694664/126912945-842af259-18c8-445d-9305-00616d0aa542.JPG) ![reading by grade](https://user-images.githubusercontent.com/84694664/126912948-2c2b9494-6a47-4374-8a08-5243c4db5f87.JPG)
+    ![math score by grade](https://user-images.githubusercontent.com/84694664/126912945-842af259-18c8-445d-9305-00616d0aa542.JPG) ![reading by grade](https://user-images.githubusercontent.com/84694664/126913087-d36553d8-1286-47ce-8d04-1e9f7dccf504.JPG)
 
   - ### Scores by school spending
     ![score by school spending](https://user-images.githubusercontent.com/84694664/126913035-fe2f2599-4129-44c8-b8f1-03f7143083b5.JPG)
