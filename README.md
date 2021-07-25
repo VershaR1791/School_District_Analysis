@@ -17,7 +17,9 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 ## Results
 
 - ###  District Summary
-Abhj;j;
+  Before getting into aggregating data to create a district level summary of school district, the math and reading score for 9th graders of *'Thomas High School'* was replaced with *'NaN*' using *'loc*' function on the student dataframe. The new total number of students was calculated to determine the percentage passing rate in math and reading as well as the overall passing percentage in the district. Below is the snapshot of the district summary final dataframe after the change.
+  ![District summary2](https://user-images.githubusercontent.com/84694664/126910355-7d686fa4-4461-43ab-9dd6-ad9fee540660.JPG)
+
 - ###  School Summary
 
 - ### Impact of replacing the 9th graders’ math and reading scores on Thomas High School’s performance relative to the other schools
