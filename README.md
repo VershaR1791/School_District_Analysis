@@ -21,12 +21,13 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 
 - ###  School Summary
 
-- ### Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+- ### Impact of replacing the 9th graders’ math and reading scores on Thomas High School’s performance relative to the other schools
+
+- ### Impact of replacing the 9th grade scores on:
+  - ### Math and reading scores by grade
+  - ### Scores by school spending
+  - ### Scores by school size
+  - ### Scores by school type
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
