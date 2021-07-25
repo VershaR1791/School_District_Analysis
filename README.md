@@ -6,7 +6,7 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 - **Data aggregation**  - import the data for school and students from excel and merge into one dataframe,
 - **Data wrangling** -
   - clean the student data to remove preffixes and suffixes from names and,
-  - remove student's math and reading scores for *Thomas High School*, since they were incorrectly reported.
+  - remove 9th grad student's math and reading scores for *Thomas High School*, since they were incorrectly reported.
 - **Data analysis** -
   - create a summary of student and school data,
   - identify high & low performing school through trends,
@@ -17,11 +17,11 @@ Maria is a Chief Data Scientist for the City School District. She has been taske
 ## Results
 
 
-###  - District Summary
+- ###  District Summary
 
-###  - School Summary
+- ###  School Summary
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- ### Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
